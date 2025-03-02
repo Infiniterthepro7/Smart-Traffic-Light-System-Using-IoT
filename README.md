@@ -12,4 +12,4 @@ An AI-powered smart traffic light system designed to improve traffic flow and re
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/Smart-Traffic-Light-System.git
+   git clone https://github.com/your-username/Smart-Traffic-Light-System-Using-IoT.git
